@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPlayerApp</string>
+    <string name="song_name" />
+    <string name="artist_name">Joh Mayr</string>
+</resources>
